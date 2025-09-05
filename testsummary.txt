@@ -1,0 +1,7 @@
+=== Test Summary ===
+Test                                     Expected             Got                  Tolerance    Result
+----------------------------------------------------------------------------------------------------
+Daily load energy                        576.00 Wh            576.00 Wh            ±1.0 Wh      PASS
+Net daily energy (with 5% loss)          606.32 Wh            606.32 Wh            ±1.0 Wh      PASS
+Battery sizing (3 days)                  1818.95 Wh           1818.95 Wh           ±1.0 Wh      PASS
+Battery capacity @48V                    37.90 Ah             37.90 Ah             ±0.1 Ah      PASS
